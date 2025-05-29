@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+OICAR-WebApp/bin/
+OICAR-WebApp/obj/
+OICAR-WebApp/.vs/
