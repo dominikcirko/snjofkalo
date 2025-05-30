@@ -1,6 +1,6 @@
-# OICAR E-commerce Web Application
+# Snjofkalo E-commerce Web Application
 
-A .NET 9.0 web application with API backend for an e-commerce platform called OICAR.
+A .NET 9.0 web application with API backend for an e-commerce platform called Snjofkalo.
 
 ## Project Structure
 
